@@ -6,9 +6,11 @@ This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
+# Master Security
+
 ```{mermaid}
 flowchart LR
-  A[Hard edge] --> B(Round edge)
+  A[Learner] --> B(Round edge)
   B --> C{Decision}
   C --> D[Result one]
   C --> E[Result two]
