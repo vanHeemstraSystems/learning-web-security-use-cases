@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: cybersecurity.qmd
+      - href: cyber-security.qmd
         text: Cyber Security
 
 format:
