@@ -1,5 +1,5 @@
 ---
-title: "Cybersecurity"
+title: "Cyber Security"
 ---
 
 About this site
