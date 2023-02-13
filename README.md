@@ -1,4 +1,4 @@
-[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-security-use-cases/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-security-use-cases/actions/workflows/publish.yml)
+[![Quarto Publish](https://github.com/vanHeemstraSystems/learning-security-initiative/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/learning-security-initiative/actions/workflows/publish.yml)
 
 learning-security-use-cases
 # Learning Security - Use Cases
