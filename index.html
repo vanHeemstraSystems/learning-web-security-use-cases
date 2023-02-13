@@ -143,10 +143,13 @@ ul.task-list li input[type="checkbox"] {
 <p>
 </p><pre class="mermaid mermaid-js" data-tooltip-selector="#mermaid-tooltip-1">flowchart LR
   A[Learner] --&gt; B(UC: Master Cyber Security)
-  A[Learner] --&gt; B(UC: Master XXX Security)
-  A[Learner] --&gt; B(UC: Master YYY Security)
-  A[Learner] --&gt; B(UC: Master ZZZ Security)  
-  B --&gt; C{Master Security}
+  A[Learner] --&gt; C(UC: Master XXX Security)
+  A[Learner] --&gt; D(UC: Master YYY Security)
+  A[Learner] --&gt; E(UC: Master ZZZ Security)  
+  B --&gt; F{Abstract UC: Master Security}
+  C --&gt; F{Abstract UC: Master Security}
+  D --&gt; F{Abstract UC: Master Security}
+  E --&gt; F{Abstract UC: Master Security}
 </pre>
 <div id="mermaid-tooltip-1" class="mermaidTooltip">
 

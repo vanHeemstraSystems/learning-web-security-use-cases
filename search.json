@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Learning Security - Use-Cases",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Security\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master Cyber Security)\n  A[Learner] --> B(UC: Master XXX Security)\n  A[Learner] --> B(UC: Master YYY Security)\n  A[Learner] --> B(UC: Master ZZZ Security)  \n  B --> C{Master Security}"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Security\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master Cyber Security)\n  A[Learner] --> C(UC: Master XXX Security)\n  A[Learner] --> D(UC: Master YYY Security)\n  A[Learner] --> E(UC: Master ZZZ Security)  \n  B --> F{Abstract UC: Master Security}\n  C --> F{Abstract UC: Master Security}\n  D --> F{Abstract UC: Master Security}\n  E --> F{Abstract UC: Master Security}"
   },
   {
     "objectID": "about.html",
