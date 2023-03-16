@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Learning Security - Use-Cases",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Security\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master Cyber Security)\n  A[Learner] --> C(UC: Master XXX Security)\n  A[Learner] --> D(UC: Master YYY Security)\n  A[Learner] --> E(UC: Master ZZZ Security)  \n  B --> F{Abstract UC: Master Security}\n  C --> F{Abstract UC: Master Security}\n  D --> F{Abstract UC: Master Security}\n  E --> F{Abstract UC: Master Security}"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,17 +7,24 @@
     "text": "About this site"
   },
   {
-    "objectID": "cyber-security.html",
-    "href": "cyber-security.html",
-    "title": "Cyber Security",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
-    "title": "Learning Security - Use-Cases",
+    "title": "Learning Cyber Security - Use-Cases",
     "section": "",
-    "text": "Table of contents\n\nLearning Security - Use Cases"
+    "text": "Table of contents\n\nLearning Cyber Security - Use Cases"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Cyber Security - Use-Cases",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Cyber Security\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master Cloud Security)\n  A[Learner] --> C(UC: Master XXX Security)\n  A[Learner] --> D(UC: Master YYY Security)\n  A[Learner] --> E(UC: Master ZZZ Security)\n  B --> F{Abstract UC: Master Cyber Security}\n  C --> F{Abstract UC: Master Cyber Security}\n  D --> F{Abstract UC: Master Cyber Security}\n  E --> F{Abstract UC: Master Cyber Security}"
+  },
+  {
+    "objectID": "cloud-security.html",
+    "href": "cloud-security.html",
+    "title": "Cloud Security",
+    "section": "",
+    "text": "About this site"
   }
 ]
