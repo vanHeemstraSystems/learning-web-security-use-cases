@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Security - Use Cases](README.md)
+* [Learning Cyber Security - Use Cases](README.md)
