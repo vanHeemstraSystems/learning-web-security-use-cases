@@ -1,21 +1,21 @@
 ---
-title: "Learning Cyber Security - Use-Cases"
+title: "Learning Web Security - Use-Cases"
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-# Master Cyber Security
+# Master Web Security
 
 ```{mermaid}
 flowchart LR
-  A[Learner] --> B(UC: Master Cloud Security)
-  A[Learner] --> C(UC: Master XXX Security)
+  A[Learner] --> B(UC: Master Server-Side Security)
+  A[Learner] --> C(UC: Master Client-Side Security)
   A[Learner] --> D(UC: Master YYY Security)
   A[Learner] --> E(UC: Master ZZZ Security)
-  B --> F{Abstract UC: Master Cyber Security}
-  C --> F{Abstract UC: Master Cyber Security}
-  D --> F{Abstract UC: Master Cyber Security}
-  E --> F{Abstract UC: Master Cyber Security}
+  B --> F{Abstract UC: Master Web Security}
+  C --> F{Abstract UC: Master Web Security}
+  D --> F{Abstract UC: Master Web Security}
+  E --> F{Abstract UC: Master Web Security}
 ```
