@@ -10,10 +10,10 @@ website:
         text: Home
       - about.qmd
       - server-side-web-security.qmd
-        text: Server-Side Web Security      
+        text: Server-Side Web Security  
       - client-side-web-security.qmd
         text: Client-Side Web Security
-        
+
 format:
   html:
     theme: cosmo
