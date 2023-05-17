@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-cyber-security-use-cases/about.html</loc>
-    <lastmod>2023-03-16T15:44:04.992Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-web-security-use-cases/client-side-web-security.html</loc>
+    <lastmod>2023-05-17T06:31:47.092Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-cyber-security-use-cases/SUMMARY.html</loc>
-    <lastmod>2023-03-16T15:44:05.976Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-web-security-use-cases/SUMMARY.html</loc>
+    <lastmod>2023-05-17T06:31:47.832Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-cyber-security-use-cases/index.html</loc>
-    <lastmod>2023-03-16T15:44:06.540Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-web-security-use-cases/index.html</loc>
+    <lastmod>2023-05-17T06:31:48.200Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/vanHeemstraSystems/learning-cyber-security-use-cases/cloud-security.html</loc>
-    <lastmod>2023-03-16T15:44:06.868Z</lastmod>
+    <loc>https://github.com/vanHeemstraSystems/learning-web-security-use-cases/server-side-web-security.html</loc>
+    <lastmod>2023-05-17T06:31:48.528Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/vanHeemstraSystems/learning-web-security-use-cases/about.html</loc>
+    <lastmod>2023-05-17T06:31:48.828Z</lastmod>
   </url>
 </urlset>

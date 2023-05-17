@@ -1,29 +1,36 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "client-side-web-security.html",
+    "href": "client-side-web-security.html",
+    "title": "Client-Side Web Security",
     "section": "",
     "text": "About this site"
   },
   {
     "objectID": "SUMMARY.html",
     "href": "SUMMARY.html",
-    "title": "Learning Cyber Security - Use-Cases",
+    "title": "Table of contents",
     "section": "",
-    "text": "Table of contents\n\nLearning Cyber Security - Use Cases"
+    "text": "Table of contents\n\nLearning Web Security - Use Cases"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Learning Cyber Security - Use-Cases",
+    "title": "Learning Web Security - Use-Cases",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Cyber Security\n\n\n\n\nflowchart LR\n  A[Learner] --> B(UC: Master Cloud Security)\n  A[Learner] --> C(UC: Master XXX Security)\n  A[Learner] --> D(UC: Master YYY Security)\n  A[Learner] --> E(UC: Master ZZZ Security)\n  B --> F{Abstract UC: Master Cyber Security}\n  C --> F{Abstract UC: Master Cyber Security}\n  D --> F{Abstract UC: Master Cyber Security}\n  E --> F{Abstract UC: Master Cyber Security}"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Web Security\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Server-Side Security)\n  A[Learner] --&gt; C(UC: Master Client-Side Security)\n  A[Learner] --&gt; D(UC: Master YYY Security)\n  A[Learner] --&gt; E(UC: Master ZZZ Security)\n  B --&gt; F{Abstract UC: Master Web Security}\n  C --&gt; F{Abstract UC: Master Web Security}\n  D --&gt; F{Abstract UC: Master Web Security}\n  E --&gt; F{Abstract UC: Master Web Security}"
   },
   {
-    "objectID": "cloud-security.html",
-    "href": "cloud-security.html",
-    "title": "Cloud Security",
+    "objectID": "server-side-web-security.html",
+    "href": "server-side-web-security.html",
+    "title": "Server-Side Web Security",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
     "text": "About this site"
   }
