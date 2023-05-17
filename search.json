@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Learning Web Security - Use-Cases",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Web Security\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Server-Side Security)\n  A[Learner] --&gt; C(UC: Master Client-Side Security)\n  A[Learner] --&gt; D(UC: Master YYY Security)\n  A[Learner] --&gt; E(UC: Master ZZZ Security)\n  B --&gt; F{Abstract UC: Master Web Security}\n  C --&gt; F{Abstract UC: Master Web Security}\n  D --&gt; F{Abstract UC: Master Web Security}\n  E --&gt; F{Abstract UC: Master Web Security}"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Web Security\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master Server-Side Web Security)\n  A[Learner] --&gt; C(UC: Master Client-Side Web Security)\n  A[Learner] --&gt; D(UC: Master YYY Web Security)\n  A[Learner] --&gt; E(UC: Master ZZZ Web Security)\n  B --&gt; F{Abstract UC: Master Web Security}\n  C --&gt; F{Abstract UC: Master Web Security}\n  D --&gt; F{Abstract UC: Master Web Security}\n  E --&gt; F{Abstract UC: Master Web Security}"
   },
   {
     "objectID": "server-side-web-security.html",
