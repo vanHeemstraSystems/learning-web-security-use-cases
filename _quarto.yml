@@ -9,8 +9,6 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - server-side-web-security.qmd
-        text: Server-Side Web Security
 
 format:
   html:
