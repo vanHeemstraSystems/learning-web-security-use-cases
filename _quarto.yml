@@ -10,7 +10,7 @@ website:
         text: Home
       - about.qmd
       - server-side-web-security.qmd
-        text: "Server-Side Web Security"
+      - client-side-web-security.qmd
 
 format:
   html:
