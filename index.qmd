@@ -10,10 +10,10 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{mermaid}
 flowchart LR
-  A[Learner] --> B(UC: Master Server-Side Security)
-  A[Learner] --> C(UC: Master Client-Side Security)
-  A[Learner] --> D(UC: Master YYY Security)
-  A[Learner] --> E(UC: Master ZZZ Security)
+  A[Learner] --> B(UC: Master Server-Side Web Security)
+  A[Learner] --> C(UC: Master Client-Side Web Security)
+  A[Learner] --> D(UC: Master YYY Web Security)
+  A[Learner] --> E(UC: Master ZZZ Web Security)
   B --> F{Abstract UC: Master Web Security}
   C --> F{Abstract UC: Master Web Security}
   D --> F{Abstract UC: Master Web Security}
